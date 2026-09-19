@@ -3,3 +3,4 @@
 .env
 *.py[cod]
 .pytest_cache/
+tasks.db
